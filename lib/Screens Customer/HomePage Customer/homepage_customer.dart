@@ -80,6 +80,7 @@ class _HomePageMainCustomerState extends State<HomePageMainCustomer> {
                 )
               ],
             ),
+
             Padding(
               padding: EdgeInsets.only(left: ScaleController.W * 0.03,
                   right: ScaleController.W * 0.03),
